@@ -32,7 +32,7 @@ A model never says, “there’s no solution” — it makes its best guess, lea
 ## Education
 
 - Master’s Degree, **Machine Learning for Data Science** | Paris Cité University, France (_September 2023_) 
-- Engineering Degree, **Data Science & Knowledge Engineering** School of Information Sciences, | Morocco (_July 2022_)
+- Engineering Degree, **Data Science & Knowledge Engineering** | School of Information Sciences, Morocco (_July 2022_)
 
 ---
 
@@ -70,11 +70,11 @@ A model never says, “there’s no solution” — it makes its best guess, lea
 
 ### Cybersecurity Knowledge Graph Construction Using Deep Learning**
 
-[Github Publication]((https://github.com/hajarmerbouh/Cybersecurity-Knowledge-graph)
+[Github Publication](https://github.com/hajarmerbouh/Cybersecurity-Knowledge-graph)
 
 In this project, I applied advanced NLP and deep learning techniques to build a knowledge graph for cybersecurity. I curated a diverse corpus of documents, then used deep learning models to extract named entities like vulnerabilities and attack methods. By identifying and mapping relationships between these entities, I constructed a knowledge graph that provides actionable insights. The final graph was tested to ensure its effectiveness in supporting cybersecurity tasks, such as detecting and mitigating cyber threats.
 
-![Knowledge Graphs](/assets/img/knowledge_graph.jpeg)
+![Knowledge Graphs](/assets/knowledge_graph.png)
 
 
 ---
