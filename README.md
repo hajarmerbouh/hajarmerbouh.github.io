@@ -46,9 +46,9 @@ A model never says, “there’s no solution” — it makes its best prediction
 - Used PyTorch, TensorFlow, pandas, and Matplotlib for analysis and modeling
 
 ### 🔹 Data Science Intern | Haut-Commissariat au Plan – Morocco _(02/2022 – 07/2022)_
-- Constructed cybersecurity knowledge graphs using NLP and deep learning
-- Built NER and relation extraction models
-- Created and analyzed a Cypher-queryable graph
+- Built cybersecurity knowledge graphs using NLP and deep learning
+- Developed NER and relation extraction models
+- Queried graphs using Cypher and visualized results
 - Frameworks: Python, PyTorch, HuggingFace, Keras, Cypher, py2neo
 
 ### 🔹 Data Science Intern | Higher Institute of Nursing – Morocco _(07/2021 – 09/2021)_
@@ -89,14 +89,19 @@ A model never says, “there’s no solution” — it makes its best prediction
 
 ## Featured Projects
 
- - [Cybersecurity Knowledge Graph Construction Using Deep Learning](https://github.com/hajarmerbouh/Cybersecurity-Knowledge-graph)  
-  NLP-based entity-relation extraction for cyber threat reports
+### [Cybersecurity Knowledge Graph Using Deep Learning](https://github.com/hajarmerbouh/Cybersecurity-Knowledge-graph)
+NLP-based entity and relation extraction from cyber threat reports.  
+**Tech:** Python, PyTorch, spaCy, Neo4j  
+**Role:** AI Developer, Researcher
+
 
 ---
 
 ## Contact Me
 
 - 📧 Email: hajar.merbouh25@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hajarmerbouh/
+- Github: https://github.com/hajarmerbouh
 
 ---
 > _Knowledge is a gift. Growth is a mercy.  
