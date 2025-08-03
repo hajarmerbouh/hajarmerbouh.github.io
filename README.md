@@ -75,7 +75,7 @@ In this project, I applied advanced NLP and deep learning techniques to build a 
 **Role:** Co-author  
 🔗 [View it on TechRxiv](https://www.techrxiv.org/users/877555/articles/1256981-context-aware-entity-relation-extraction-pipeline-for-threat-intelligence-knowledge-graphs)
 
-![IEEE](/assets/IEEE.jpg)
+![IEEE](/assets/ieee.png)
 
 ---
 
