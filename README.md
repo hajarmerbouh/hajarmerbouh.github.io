@@ -1,15 +1,5 @@
 # AI Engineer
 
-
-## About Me
-
-I’m passionate about solving real-world problems through data science and artificial intelligence. 
-
-What draws me to machine learning is how it aligns with the way I think. It’s a discipline rooted in structured problem-solving, patience, and constant refinement.
-
-A model never says, “there’s no solution” — it makes its best guess, learns from it, and tries again. That mindset — to keep learning, improving, and moving forward — is what makes this field feel like home.
-
----
 ## Technical Skills
 
 ### Core Skills
@@ -68,7 +58,7 @@ A model never says, “there’s no solution” — it makes its best guess, lea
 
 ## Featured Projects
 
-### Cybersecurity Knowledge Graph Construction Using Deep Learning**
+### Cybersecurity Knowledge Graph Construction Using Deep Learning
 
 [Github Publication](https://github.com/hajarmerbouh/Cybersecurity-Knowledge-graph)
 
@@ -83,7 +73,9 @@ In this project, I applied advanced NLP and deep learning techniques to build a 
 
 **Title:** *Context-aware Entity-Relation Extraction Pipeline for Threat Intelligence Knowledge Graphs*  
 **Role:** Co-author  
-🔗 [Read it on TechRxiv](https://www.techrxiv.org/users/877555/articles/1256981-context-aware-entity-relation-extraction-pipeline-for-threat-intelligence-knowledge-graphs)
+🔗 [View it on TechRxiv](https://www.techrxiv.org/users/877555/articles/1256981-context-aware-entity-relation-extraction-pipeline-for-threat-intelligence-knowledge-graphs)
+
+![IEEE](/assets/IEEE.jpg)
 
 ---
 
