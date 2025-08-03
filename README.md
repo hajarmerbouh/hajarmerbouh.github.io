@@ -74,7 +74,7 @@ A model never says, “there’s no solution” — it makes its best guess, lea
 
 In this project, I applied advanced NLP and deep learning techniques to build a knowledge graph for cybersecurity. I curated a diverse corpus of documents, then used deep learning models to extract named entities like vulnerabilities and attack methods. By identifying and mapping relationships between these entities, I constructed a knowledge graph that provides actionable insights. The final graph was tested to ensure its effectiveness in supporting cybersecurity tasks, such as detecting and mitigating cyber threats.
 
-![Knowledge Graphs](/assets/knowledge_graph.png)
+![Knowledge Graphs](/assets/knowledge_graph.jpg)
 
 
 ---
