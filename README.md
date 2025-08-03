@@ -10,9 +10,9 @@ Welcome to my portfolio!
 
 I’m passionate about solving real-world problems through data science and artificial intelligence. 
 
-What draws me to machine learning is how deeply it aligns with the way I think. It’s a discipline rooted in structured problem-solving, patience, and constant refinement.
+Machine learning aligns perfectly with my thinking — it’s all about structured problem-solving, patience, and constant refinement.
 
-A model never says, “there’s no solution” — it makes its best prediction, learns from it, and tries again. That mindset — to keep learning, improving, and moving forward — is what makes this field feel like home.
+A model never says, “there’s no solution” — it makes its best guess, learns from it, and tries again. That mindset — to keep learning, improving, and moving forward — is what makes this field feel like home.
 
 - 🧾 Co-author of a research thesis:  
   **"Context-aware Entity-Relation Extraction Pipeline for Threat Intelligence Knowledge Graphs"**
