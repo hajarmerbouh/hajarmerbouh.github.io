@@ -82,7 +82,7 @@ In this project, I applied advanced NLP and deep learning techniques to build a 
 ## Contact Me
 
 - Email: hajar.merbouh25@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hajarmerbouh/
+- LinkedIn: https://www.linkedin.com/in/hajar-merbouh-7658031a4/ 
 - Github: https://github.com/hajarmerbouh
 
 ---
