@@ -10,6 +10,24 @@ What draws me to machine learning is how it aligns with the way I think. It’s 
 A model never says, “there’s no solution” — it makes its best guess, learns from it, and tries again. That mindset — to keep learning, improving, and moving forward — is what makes this field feel like home.
 
 ---
+## Technical Skills
+
+### Core Skills
+
+- Clean Code Practices  • Git-based Collaboration
+- NLP • Machine Learning • Deep Learning
+- Software Development • Python Scripting
+- Data Preprocessing • Image Processing
+- Knowledge Graphs • Data Pipelines
+
+### Frameworks & Libraries
+- **ML:** TensorFlow • Keras • PyTorch • Scikit-learn • Spark MLlib  
+- **Languages:** Python • R • Java  
+- **Dev Tools:** VSCode • pipenv • uv • pyproject.toml  
+- **Version Control:** GitLab • Git • CI/CD pipelines  
+- **OS:** macOS • Unix/Linux basics
+
+---
 
 ## Education
 
@@ -48,41 +66,24 @@ A model never says, “there’s no solution” — it makes its best guess, lea
 
 ---
 
-## Technical Skills
+## Featured Projects
 
-### Core Skills
+### Cybersecurity Knowledge Graph Construction Using Deep Learning**
 
-- Clean Code Practices  • Git-based Collaboration
-- NLP • Machine Learning • Deep Learning
-- Software Development • Python Scripting
-- Data Preprocessing • Image Processing
-- Knowledge Graphs • Data Pipelines
+[Github Publication]((https://github.com/hajarmerbouh/Cybersecurity-Knowledge-graph)
 
-### Frameworks & Libraries
-- **ML:** TensorFlow • Keras • PyTorch • Scikit-learn • Spark MLlib  
-- **Languages:** Python • R • Java  
-- **Dev Tools:** VSCode • pipenv • uv • pyproject.toml  
-- **Version Control:** GitLab • Git • CI/CD pipelines  
-- **OS:** macOS • Unix/Linux basics
+In this project, I applied advanced NLP and deep learning techniques to build a knowledge graph for cybersecurity. I curated a diverse corpus of documents, then used deep learning models to extract named entities like vulnerabilities and attack methods. By identifying and mapping relationships between these entities, I constructed a knowledge graph that provides actionable insights. The final graph was tested to ensure its effectiveness in supporting cybersecurity tasks, such as detecting and mitigating cyber threats.
+
+![Knowledge Graphs](/assets/img/knowledge_graph.jpeg)
+
 
 ---
 
-## Thesis
+## Publication
 
 **Title:** *Context-aware Entity-Relation Extraction Pipeline for Threat Intelligence Knowledge Graphs*  
 **Role:** Co-author  
 🔗 [Read it on TechRxiv](https://www.techrxiv.org/users/877555/articles/1256981-context-aware-entity-relation-extraction-pipeline-for-threat-intelligence-knowledge-graphs)
-
-
----
-
-## Featured Projects
-
-**Title**: Cybersecurity Knowledge Graph Using Deep Learning**
-**Description**: NLP-based entity and relation extraction from cyber threat reports.  
-**Tech:** Python, PyTorch, spaCy, Neo4j  
-**Role:** AI Developer, Researcher
-🔗 [View it on Github]([https://www.techrxiv.org/users/877555/articles/1256981-context-aware-entity-relation-extraction-pipeline-for-threat-intelligence-knowledge-graphs)](https://github.com/hajarmerbouh/Cybersecurity-Knowledge-graph)
 
 ---
 
